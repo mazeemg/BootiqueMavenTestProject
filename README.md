@@ -1,0 +1,1 @@
+java -jar target/bootique-maven-test-project-1.0-SNAPSHOT.jar --server --config=./src/main/resources/myconfig.yaml
